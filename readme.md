@@ -10,22 +10,57 @@ This project is basically to draw lines with your hand, using python, opencv, me
 
 ## Tools :gear:
 
-The engine used is a personalized one: https://github.com/WilliBobadilla/postman-to-swagger forked from https://github.com/tecfu/postman-to-swagger
+1. Python
+2. Opencv
+3. Mediapipe
+4. Numpy
 
 ## How to use :page_with_curl:
 
-:one: Copy and paste the json generated from your postman collection output <br>
-:two: Then click on "Convert" <br>
-:three: Then you will have your Swagger in the textarea
+1. Download repo
+
+```bash
+git clone https://github.com/WilliBobadilla/paintOpencv.git
+```
+
+2. Enter in the folder
+
+```bash
+cd paintOpencv
+```
+
+3. Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the script
+
+```bash
+python paint.py
+```
 
 ## Author :man:
 
 - [Williams Bobadilla](https://github.com/WilliBobadilla)
 
-## Colaborate :raised_hand:
+## Colaborate :muscle:
 
-If you want to colaborate, make a fork, open a new branck, work in your branck and then make me a pull request
+If you want to colaborate, make a fork, open a new branck, work in your branck and then make me a pull request.
 
 ## License
 
-[MIT](LICENSE)
+Copyright 2021 Williams Bobadilla
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
