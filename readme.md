@@ -47,7 +47,7 @@ python paint.py
 
 ## Colaborate :muscle:
 
-If you want to colaborate, make a fork, open a new branck, work in your branck and then make me a pull request.
+If you want to colaborate, make a fork, open a new branch, work in your branch and then make me a pull request.
 
 ## License
 
